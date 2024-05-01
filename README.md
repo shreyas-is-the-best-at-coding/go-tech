@@ -1,1 +1,1 @@
-# go-tech.github.io
+# go-tech
